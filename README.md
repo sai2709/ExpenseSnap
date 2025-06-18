@@ -20,7 +20,6 @@
 ---
 
 ## ✨ Features
-
 ✅ **Fast Expense Entry** – Log daily transactions with custom descriptions, categories, and dates.  
 ✅ **Income Tracking** – Record various income sources and analyze your net balance.  
 ✅ **Budgeting Tools** – Set monthly spending caps and get alerts as you approach limits.  
@@ -71,4 +70,10 @@ Please follow the steps below:
 5. Open a Pull Request
 
 ---
+![Home](https://github.com/user-attachments/assets/ccf65ed2-2945-4c36-aa09-ddaec5afc6f1)
+![history](https://github.com/user-attachments/assets/cb132faf-6a9d-45fa-bcc6-38e98c041157)
+![expenses stats](https://github.com/user-attachments/assets/ba7ffb2c-f777-4601-bcde-1535dab076ea)
+![adding expenses](https://github.com/user-attachments/assets/d2e94760-79a0-4730-ab13-2e69753df484)
+
+
 
